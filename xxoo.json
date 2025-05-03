@@ -196,6 +196,15 @@
       "filterable": 0
     },
     {
+      "key": "88",
+      "name": "88看球",
+      "type": 3,
+      "api": "csp_Sir88Guard",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
       "key": "CK资源",
       "name": "🔞CK资源",
       "type": 1,
@@ -412,13 +421,43 @@
       "filterable": 1
     },
     {
+      "key": "csp_pornhub",
+      "name": "🔞Pornhub",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/json/pornhub.json"
+    },
+    {
+      "key": "MissAV",
+      "name": "🔞MissAV",
+      "type": 3,
+      "api": "csp_Miss",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "noproxy"
+    },
+    {
+      "key": "csp_Netflav",
+      "name": "🔞Netflav",
+      "type": 3,
+      "api": "csp_Netflav",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "proxy"
+    },
+    {
       "key": "Hanime",
       "name": "🔞Hanime",
       "type": 3,
       "api": "csp_Hanime",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     }
   ],
   "parses": [
