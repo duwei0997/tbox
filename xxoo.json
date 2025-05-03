@@ -1,24 +1,4 @@
 {
-  "spider": "https://s3.tebi.io/mhq/tv/pg.jar",
-  "spider":"http://tv.laohu.cool/lh241201.jar;md5;28ca0844d36b8179e909e65ec74b3724", 
-  "wallpaper":"https://深色壁纸.xxooo.cf/",
-  "lives": [
-    {
-      "name": "自己建—01",
-      "type": 0,
-      "url": "https://gh.tryxd.cn/https://raw.githubusercontent.com/caca3559823437/2022/refs/heads/main/2023.txt",
-      "playerType": 1,
-      "epg": "http://diyp.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "18+Live",
-      "type": 0,
-      "url": "https://cdn.jsdelivr.net/gh/ctsfork/web@main/iptv/color4-av-time.txt",
-      "playerType": 1,
-      "epg": "http://epg.112114.eu.org/?ch={name}&date={date}"
-    }
-  ],
   "sites": [
     {
       "key": "量子云播",
@@ -421,6 +401,24 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
+    },
+    {
+      "key": "Cg51",
+      "name": "🔞51吃瓜 | 图密√",
+      "type": 3,
+      "api": "csp_Cg51",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "Hanime",
+      "name": "🔞Hanime",
+      "type": 3,
+      "api": "csp_Hanime",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     }
   ],
   "parses": [
