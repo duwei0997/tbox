@@ -423,19 +423,6 @@
       "filterable": 0
     }
   ],
-  "lives": [
-    {
-      "group": "ZJ01",
-      "channels": [
-        {
-          "name": "ZJ01",
-          "urls": [
-            "https://gh.tryxd.cn/https://raw.githubusercontent.com/caca3559823437/2022/refs/heads/main/2023.txt"
-          ]
-        }
-      ]
-    }
-  ],
   "parses": [
     {
       "name": "Json轮询",
