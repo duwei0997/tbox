@@ -11,19 +11,6 @@
       "ext": "https://slink.ltd/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js/678.js"
     },
     {
-      "key": "Youtube", 
-      "name": "Youtube", 
-       "type": 3, 
-       "api": "csp_Youtube", 
-       "searchable": 1, 
-       "quickSearch": 0, 
-       "changeable": 0, 
-       "ext": {
-           "token": "https://slink.ltd/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/token.json", 
-           "json": "https://slink.ltd/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/json/youtube1.json", 
-       }, 
-    }, 
-    {
       "key": "量子云播",
       "name": "👽量子云播",
       "type": 1,
