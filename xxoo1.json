@@ -1,15 +1,6 @@
 {
   "sites": [
     {
-      "key": "黑木耳",
-      "name": "黑木耳",
-      "type": 1,
-      "api": "https://json.heimuer.xyz/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "闪雷",
       "name": "👽闪雷┃MP4",
       "type": 3,
@@ -18,6 +9,15 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://slink.ltd/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js/678.js"
+    },
+    {
+      "key": "黑木耳",
+      "name": "👽黑木耳",
+      "type": 1,
+      "api": "https://json.heimuer.xyz/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "量子云播",
@@ -474,6 +474,15 @@
       "name": "🔞Hanime",
       "type": 3,
       "api": "csp_Hanime",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "欧乐影院",
+      "name": "欧乐影院",
+      "type": 1,
+      "api": "https://raw.githubusercontent.com/m3u8playlist/dp/master/iplayr/olevod.json",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
