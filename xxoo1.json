@@ -479,13 +479,13 @@
       "filterable": 0
     },
     {
-      "key": "欧乐影院",
-      "name": "欧乐影院",
+      "key": "1555",
+      "name": "155",
       "type": 1,
-      "api": "https://raw.githubusercontent.com/m3u8playlist/dp/master/iplayr/olevod.json",
+      "api": "https://155api.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     }
   ],
   "parses": [
