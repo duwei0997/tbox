@@ -543,9 +543,18 @@
     },
     {
       "key": "91md",
-      "name": "91md",
+      "name": "🔞91md|国产",
       "type": 1,
       "api": "https://91md.me/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "8day",
+      "name": "8day",
+      "type": 1,
+      "api": "https://8day.icu/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
