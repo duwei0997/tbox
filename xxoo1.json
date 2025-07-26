@@ -534,9 +534,18 @@
     },
     {
       "key": "jingpinx",
-      "name": "jingpinx",
+      "name": "🔞jingpinx",
       "type": 1,
       "api": "https://www.jingpinx.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "91md",
+      "name": "91md",
+      "type": 1,
+      "api": "https://91md.me/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
