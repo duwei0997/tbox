@@ -525,9 +525,18 @@
     },
     {
       "key": "fhapi9",
-      "name": "fhapi9",
+      "name": "🔞fhapi9",
       "type": 1,
       "api": "http://fhapi9.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "jingpinx",
+      "name": "jingpinx",
+      "type": 1,
+      "api": "https://www.jingpinx.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
