@@ -657,6 +657,15 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
+    },
+    {
+      "key": "411fd4fd74ef8361869eb302bd0a9ba1",
+      "name": "1080zyku",
+      "type": 0,
+      "api": "https://api.1080zyku.com/inc/ldg_api_all.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
     }
   ],
   "parses": [
