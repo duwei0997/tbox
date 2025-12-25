@@ -552,9 +552,9 @@
     },
     {
       "key": "8day",
-      "name": "🔞8day",
+      "name": "🔞aosikazy",
       "type": 1,
-      "api": "https://8day.icu/api.php/provide/vod/",
+      "api": "https://aosikazy.com/api.php/provide/vod/at/xml",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
