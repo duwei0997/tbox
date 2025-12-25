@@ -1,25 +1,6 @@
 {
   "sites": [
     {
-      "key": "闪雷",
-      "name": "👽闪雷┃MP4",
-      "type": 3,
-      "api": "https://ghcy.eu.org//https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/FTY/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://ghcy.eu.org//https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js/678.js"
-    },
-    {
-      "key": "黑木耳",
-      "name": "👽黑木耳",
-      "type": 1,
-      "api": "https://json.heimuer.xyz/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "量子云播",
       "name": "👽量子云播",
       "type": 1,
@@ -57,15 +38,6 @@
       "filterable": 0
     },
     {
-      "key": "极速资源",
-      "name": "👽极速采集",
-      "type": 0,
-      "api": "https://jszyapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "豪华资源",
       "name": "👽豪华资源",
       "type": 1,
@@ -73,25 +45,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
-    },
-    {
-      "key": "雨滴",
-      "name": "👽雨滴┃App",
-      "type": 3,
-      "api": "csp_Xdai",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "jaHR0cDovL2M4dzJvdjd1NXdnMnoxbzhwMjFjLmFsaXl1bmNzLmNsaWNrfGs5bzNwMmM4YjdtM3owbzh8azlvM3AyYzhiN20zejBvOA"
-    },
-    {
-      "key": "csp_Auete",
-      "name": "👽Auete┃无搜索",
-      "type": 3,
-      "api": "csp_Auete",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
     {
       "key": "NoSearch_csp_BBB",
@@ -102,26 +55,6 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "naHR0cHM6Ly93d3cucWlhb2ppOC5jb20vdHZib3gvYmlsaS5qc29u"
-    },
-    {
-      "key": "csp_Bili_Meinvw",
-      "name": "👽美女┃舞蹈",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "http://tvbox.plus/json/meinv.json"
-    },
-    {
-      "key": "csp_Bili_yanchh",
-      "name": "👽歌手┃合集",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "http://tvbox.plus/json/geshou.json"
     },
     {
       "key": "贱贱",
@@ -188,15 +121,6 @@
       "filterable": 0
     },
     {
-      "key": "华为吧",
-      "name": "👽华为吧",
-      "type": 1,
-      "api": "https://huawei8.live/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "红牛资源",
       "name": "👽红牛资源",
       "type": 1,
@@ -215,11 +139,11 @@
       "filterable": 0
     },
     {
-      "key": "88",
-      "name": "88看球",
-      "type": 3,
-      "api": "csp_Sir88Guard",
-      "searchable": 0,
+      "key": "wangwang",
+      "name": "👽旺旺短剧",
+      "type": 1,
+      "api": "https://api.wwzy.tv/api.php/provide/vod/",
+      "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
@@ -228,33 +152,6 @@
       "name": "🔞CK资源",
       "type": 1,
       "api": "https://ckzy.me/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "ms4nii",
-      "name": "🔞美少女(直连)",
-      "type": 0,
-      "api": "https://www.msnii.com/api/xml.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "KxrbspE",
-      "name": "🔞淫水机(直连)",
-      "type": 0,
-      "api": "https://www.xrbsp.com/api/xml.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "gdlsE",
-      "name": "🔞香奶儿(直连)",
-      "type": 0,
-      "api": "https://www.gdlsp.com/api/xml.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -269,15 +166,6 @@
       "filterable": 1
     },
     {
-      "key": "(18+)S猫资源",
-      "name": "🔞色猫资源-Nosub",
-      "type": 0,
-      "api": "https://api.maozyapi.com/inc/api.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "乐播",
       "name": "🔞乐播",
       "type": 0,
@@ -285,15 +173,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "*91麻豆",
-      "name": "🔞91麻豆",
-      "type": 0,
-      "api": "https://91md.me/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
     },
     {
       "key": "采集G(jkun)",
@@ -332,28 +211,10 @@
       "filterable": 1
     },
     {
-      "key": "GAY资源",
-      "name": "🔞GAY资源",
-      "type": 1,
-      "api": "https://gayapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "桃花资源",
       "name": "🔞桃花资源",
       "type": 1,
       "api": "https://thzy1.me/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "环亚资源",
-      "name": "🔞环亚资源",
-      "type": 0,
-      "api": "http://hysscj.com/inc/sapi.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -366,15 +227,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
-    },
-    {
-      "key": "KpgxdyE",
-      "name": "🔞黄AV",
-      "type": 0,
-      "api": "https://www.pgxdy.com/api/xml.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
     {
       "key": "玉兔专场",
@@ -395,85 +247,10 @@
       "filterable": 0
     },
     {
-      "key": "葡萄",
-      "name": "🔞采集.葡萄资源",
-      "type": 1,
-      "api": "https://caiji.putaozyw.net/inc/apijson_vod.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "PigAV",
-      "name": "🔞朱古力翻",
-      "type": 3,
-      "api": "csp_Pig",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "丝袜资源",
       "name": "🔞丝袜资源",
       "type": 1,
       "api": "https://siwazyw.tv/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "🔞91麻豆",
-      "name": "🔞91麻豆翻2",
-      "type": 1,
-      "api": "https://91md.me/api.php/provide/vod/from/mdm3u8/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "Cg51",
-      "name": "🔞51吃瓜 | 图密√",
-      "type": 3,
-      "api": "csp_Cg51",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_pornhub",
-      "name": "🔞Pornhub",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://ghcy.eu.org//https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/json/pornhub.json"
-    },
-    {
-      "key": "MissAV",
-      "name": "🔞MissAV",
-      "type": 3,
-      "api": "csp_Miss",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "noproxy"
-    },
-    {
-      "key": "csp_Netflav",
-      "name": "🔞Netflav",
-      "type": 3,
-      "api": "csp_Netflav",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "proxy"
-    },
-    {
-      "key": "Hanime",
-      "name": "🔞Hanime",
-      "type": 3,
-      "api": "csp_Hanime",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -495,15 +272,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
-    },
-    {
-      "key": "橘猫资源",
-      "name": "🔞橘猫资源",
-      "type": 1,
-      "api": "https://to.to-long.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
     {
       "key": "apilj",
@@ -551,17 +319,8 @@
       "filterable": 0
     },
     {
-      "key": "8day",
-      "name": "🔞8day",
-      "type": 1,
-      "api": "https://8day.icu/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "naixxzy",
-      "name": "naixxzy",
+      "name": "🔞naixxzy",
       "type": 1,
       "api": "https://naixxzy.com/api.php/provide/vod/",
       "searchable": 1,
@@ -569,17 +328,8 @@
       "filterable": 0
     },
     {
-      "key": "yutuzy3",
-      "name": "yutuzy3",
-      "type": 1,
-      "api": "https://yutuzy3.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "slapibf",
-      "name": "slapibf",
+      "name": "🔞slapibf",
       "type": 1,
       "api": "https://slapibf.com/api.php/provide/vod/",
       "searchable": 1,
@@ -587,17 +337,8 @@
       "filterable": 0
     },
     {
-      "key": "Naixxzy",
-      "name": "Naixxzy",
-      "type": 0,
-      "api": "https://Naixxzy.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "lbapiby",
-      "name": "lbapiby",
+      "name": "🔞lbapiby",
       "type": 1,
       "api": "http://lbapiby.com/api.php/provide/vod/",
       "searchable": 1,
@@ -605,55 +346,10 @@
       "filterable": 0
     },
     {
-      "key": "gayapi",
-      "name": "gayapi",
-      "type": 1,
-      "api": "https://gayapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "beiyong",
-      "name": "beiyong",
-      "type": 1,
-      "api": "https://beiyong.slapibf.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "jkunzyapi",
-      "name": "jkunzyapi",
-      "type": 1,
-      "api": "https://jkunzyapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "shayuapi",
-      "name": "shayuapi",
+      "name": "🔞shayuapi",
       "type": 1,
       "api": "https://shayuapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "ddapi",
-      "name": "ddapi",
-      "type": 1,
-      "api": "https://api.ddapi.cc/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "xxavs",
-      "name": "xxavs",
-      "type": 1,
-      "api": "https://xxavs.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
