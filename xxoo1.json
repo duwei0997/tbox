@@ -373,10 +373,10 @@
       "filterable": 0
     },
     {
-      "key": "fhapi9",
-      "name": "fhapi9",
+      "key": "aosikazy",
+      "name": "aosikazy",
       "type": 1,
-      "api": "http://fhapi9.com/api.php/provide/vod/",
+      "api": "https://aosikazy.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
