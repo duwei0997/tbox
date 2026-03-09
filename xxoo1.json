@@ -373,10 +373,10 @@
       "filterable": 0
     },
     {
-      "key": "aosikazy",
-      "name": "aosikazy",
+      "key": "dyttzyapi",
+      "name": "dyttzyapi",
       "type": 1,
-      "api": "https://aosikazy.com/api.php/provide/vod",
+      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
