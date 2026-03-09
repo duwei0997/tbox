@@ -353,6 +353,33 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
+    },
+    {
+      "key": "jkunzyapi",
+      "name": "jkunzyapi",
+      "type": 0,
+      "api": "https://www.jkunzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "apidanaizi",
+      "name": "apidanaizi",
+      "type": 1,
+      "api": "https://apidanaizi.com/api.php/provide/vod/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "fhapi9",
+      "name": "fhapi9",
+      "type": 1,
+      "api": "http://fhapi9.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
     }
   ],
   "parses": [
