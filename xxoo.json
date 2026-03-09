@@ -353,6 +353,15 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
+    },
+    {
+      "key": "apidanaizi",
+      "name": "🔞apidanaizi",
+      "type": 1,
+      "api": "https://apidanaizi.com/api.php/provide/vod/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
     }
   ],
   "parses": [
