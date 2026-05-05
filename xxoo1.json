@@ -175,15 +175,6 @@
       "filterable": 1
     },
     {
-      "key": "采集G(jkun)",
-      "name": "🔞jkun",
-      "type": 1,
-      "api": "https://www.jkunzyapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "玉兔资源",
       "name": "🔞玉兔资源",
       "type": 1,
@@ -274,6 +265,15 @@
       "filterable": 0
     },
     {
+      "key": "jkunzyapi",
+      "name": "🔞jkunzyapi",
+      "type": 0,
+      "api": "https://www.jkunzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
       "key": "apilj",
       "name": "🔞apilj",
       "type": 1,
@@ -355,19 +355,10 @@
       "filterable": 0
     },
     {
-      "key": "jkunzyapi",
-      "name": "jkunzyapi",
-      "type": 0,
-      "api": "https://jkunzyapi.com/api.php/seaxml/vod/at/xml",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "apidanaizi",
       "name": "apidanaizi",
       "type": 1,
-      "api": "https://apidanaizi.com/api.php/provide/vod/at/json",
+      "api": "https://apidanaizi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
