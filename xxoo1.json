@@ -265,15 +265,6 @@
       "filterable": 0
     },
     {
-      "key": "jkunzyapi1",
-      "name": "18-jkunzyapi",
-      "type": 0,
-      "api": "https://jkunzyapi.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "apilj",
       "name": "🔞apilj",
       "type": 1,
@@ -371,6 +362,24 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
+    },
+    {
+      "key": "jkunzyapi1",
+      "name": "18-jkunzyapi",
+      "type": 0,
+      "api": "https://jkunzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "senlinzy",
+      "name": "senlinzy",
+      "type": 1,
+      "api": "https://slapibf.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
     }
   ],
   "parses": [
@@ -406,5 +415,5 @@
     }
   ],
   "wallpaper": "https://深色壁纸.xxooo.cf/",
-  "spider": "https://gh-proxy.com/raw.githubusercontent.com/vbskycn/tvbox/main/jar/骚零.jar"
+  "spider": "https://github.com/c120487/00/raw/main/jar/pc0205.jar"
 }
