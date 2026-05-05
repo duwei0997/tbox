@@ -268,7 +268,7 @@
       "key": "jkunzyapi",
       "name": "🔞jkunzyapi",
       "type": 0,
-      "api": "https://www.jkunzyapi.com/api.php/provide/vod",
+      "api": "https://www.jkunzyapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -406,5 +406,5 @@
     }
   ],
   "wallpaper": "https://深色壁纸.xxooo.cf/",
-  "spider": "http://tv.laohu.cool/lh241201.jar;md5;28ca0844d36b8179e909e65ec74b3724"
+  "spider": "https://gh-proxy.com/raw.githubusercontent.com/vbskycn/tvbox/main/jar/骚零.jar"
 }
